@@ -1,4 +1,4 @@
-# 01 HTML CSS Git: Core Refactor
+# 01 HTML CSS Git: Code Refactor
 
 The files attached with this readme file are answers to our first assignment in this course.
 
